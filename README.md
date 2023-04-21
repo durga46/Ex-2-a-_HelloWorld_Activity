@@ -1,7 +1,5 @@
 
-
-# Ex.No:2 Implementation of a Hello world Activity using all lifecycles methods using Android Studio.
-
+## <p align="center"> Ex.No:2 Implementation of a Hello world Activity using all lifecycles methods using Android Studio. </p>
 
 ## AIM:
 To create Hello world Activity using all lifecycles methods to display messages using android studio.
